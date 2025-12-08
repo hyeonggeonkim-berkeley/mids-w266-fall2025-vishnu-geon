@@ -1,7 +1,7 @@
 # mids-w266-fall2025-vishnu-geon
-Part of a competion from Nicholas Card et al.'s challenge via kaggle: https://www.kaggle.com/competitions/brain-to-text-25\
-Baseline github: https://github.com/Neuroprosthetics-Lab/nejm-brain-to-text/tree/main\
-Baseline publication: 10.1056/NEJMoa2314132\
+Part of a competion from Nicholas Card et al.'s challenge via kaggle: https://www.kaggle.com/competitions/brain-to-text-25  
+Baseline github: https://github.com/Neuroprosthetics-Lab/nejm-brain-to-text/tree/main  
+Baseline publication: 10.1056/NEJMoa2314132  
 Data gathered from : https://datadryad.org/dataset/doi:10.5061/dryad.dncjsxm85
 
 # Contents
